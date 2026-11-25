@@ -1,6 +1,5 @@
 # Dev Langaliya
 
-Statistics student at UIUC graduating May 2026, minoring in Computer Science.
-Interested in ML engineering, AI systems, and full-stack development.
+AI & Machine Learning Engineer at Motorola Solutions.
 
-📫 devl2@illinois.edu · [LinkedIn](https://www.linkedin.com/in/dev-langaliya/)
+📫 langaliya.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/devlangaliya/)
